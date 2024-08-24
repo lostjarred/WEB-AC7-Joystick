@@ -1,4 +1,4 @@
-----==== Terminal Single Page Template Website ====----
-a template for a single page terminal styled website
+----==== Ace Combat 7 Joystick Config ====----
+A small webpage to store the config for my joystick config for ace combat 7
 
 --== Credits ==--
